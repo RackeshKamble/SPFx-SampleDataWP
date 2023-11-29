@@ -3,16 +3,22 @@
 This is simple webpart to show My Details data on a WP
 
 ## Environment Setup
+
 npm install -g @microsoft/generator-sharepoint@1.9.1
+
 npm install -g gulp@3.9.1
+
 npm install -g yo@3.1.0
 
 ## Building the code
 # Clone this repository
 # Ensure that you are at the solution folder 
 # in the command-line run:
+
 npm install
+
 gulp build
+
 gulp serve
 
 ## Applies to
